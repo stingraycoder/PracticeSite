@@ -1,0 +1,149 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+}
+h1 {
+  font-size: 5.625em;
+  color: #ffffff;
+  line-height: 2;
+  margin: 100px auto 0 auto;
+  font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  color: #2978B5;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 0px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #8AB6D6;
+  justify-content: left;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+hr {
+border: dotted grey 6px; 
+border-bottom: none;
+width: 4%;
+margin: 100px auto;
+}
+
+p {
+    line-height: 2;
+}
+
+a {
+    color: #FBE0C4;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color:#ffffff;
+  }
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    padding: 40px;
+}
+
+.top-container {
+  background: linear-gradient(#8AB6D6, #ffffff);
+  margin-left: 0px;
+  margin-right: 0px;
+  position: relative;
+  padding-top: 50px;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.bottom-container {
+    background-color: #0061A8;
+    padding: 50px 0 20px;
+}
+
+.profile-picture {
+  height: 200px;
+}
+
+.computer {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.idea {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.email {
+    width: 7%;
+  }
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.mountain {
+    mix-blend-mode:soft-light;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  margin-top: 25px;
+  mix-blend-mode: soft-light;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  margin-bottom: 300px;
+  mix-blend-mode: soft-light;
+}
+
+.copyright {
+    color: white;
+    font-size: .75rem;
+    padding: 20px 0px;
+}
+
+.attribution {
+    color:white;
+    font-size: .5em;
+}
+
+.btn-icon {
+    width: 5%;
+    padding-top: 40px;
+ }
+ 
+ .btn-icon:hover {
+    filter: invert(0.6);
+ }
+ 
